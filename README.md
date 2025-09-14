@@ -1,5 +1,5 @@
 # HeimdallRF
-
+![HeimdallRF Logo](docs/images/Logo_transparent_250.png)
 **HeimdallRF** is a pocket-sized, open-source drone detector built on the ESP32.  
 Inspired by the mythological guardian who could hear grass grow and see snow fall, HeimdallRF watches the airwaves for you.
 
@@ -9,6 +9,7 @@ Inspired by the mythological guardian who could hear grass grow and see snow fal
 Consumer drones, FPV rigs and RC links are everywhere.  
 HeimdallRF is designed as a **DIY, hacker-friendly tool** to passively detect activity in popular frequency bands used by drones and FPV systems – so you always know when the sky above you is not quiet.
 
+![HeimdallRF Rendering](docs/images/rendering.png)
 ---
 
 ## 🚀 Features (Planned v1.0)
