@@ -38,10 +38,10 @@ Future expansions (stretch goals):
 ---
 
 ## 📂 Repository Structure
-firmware/ → ESP32 source code
-hardware/ → Schematics, PCB files, STL's, BOM
-docs/ → Technical documentation, design notes
-README.md → This file
+- firmware/ → ESP32 source code
+- hardware/ → Schematics, PCB files, STL's, BOM
+- docs/ → Technical documentation, design notes
+- README.md → This file
 
 ---
 
