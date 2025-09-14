@@ -42,7 +42,6 @@ firmware/ → ESP32 source code
 hardware/ → Schematics, PCB files, STL's, BOM
 docs/ → Technical documentation, design notes
 README.md → This file
-licence.txt → The license in text form
 
 ---
 
@@ -55,9 +54,15 @@ No warranty, no guarantees – use at your own risk.
 
 ## 📜 License
 
-HeimdallRF is released under the **MIT License with Commons Clause**.  
-- ✅ Free to use, modify, learn from, and contribute.  
-- ❌ Commercial use, resale, or monetization is **not permitted** without explicit written permission from the author.  
+HeimdallRF is released under a dual licensing scheme:
+
+- **Firmware (code, docs)** → MIT License with Commons Clause  
+  - ✅ Free to use, modify, learn from, and contribute  
+  - ❌ Commercial use, resale, or monetization is **not permitted** without explicit written permission from the author  
+
+- **Hardware (schematics, PCB, CAD files)** → CERN OHL-S with Commons Clause  
+  - ✅ Free to study, modify, share, and build upon  
+  - ❌ Commercial use, resale, or monetization of the hardware is **not permitted** without explicit written permission from the author  
 
 This ensures HeimdallRF remains open and hackable for the community, while protecting it from unauthorized commercial exploitation.
 
@@ -66,7 +71,6 @@ This ensures HeimdallRF remains open and hackable for the community, while prote
 ## 🌐 Links
 - [Website / Indiegogo Pre-Launch](#) (coming soon)  
 - [Community Discord](#) (coming soon)  
-- License: MIT + Commons Clause
 
 ---
 
