@@ -33,7 +33,7 @@ HeimdallRF is designed as a **DIY, hacker-friendly tool** to passively detect ac
 - **v1.0** – First crowdfunding batch (Indiegogo), 3D-printed case, polished firmware  
 
 Future expansions (stretch goals):  
-- Acoustic add-on module (Shahed/Geran - loitering munition detection)  
+- Acoustic and mesh network add-on module (for detecting Shahed/Geran loitering munitions)
 - Huginn/Muninn expansion boards (extra sensors, modularity, logging)  
 - Mesh networking for distributed monitoring
 
